@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinita
 - 👀 I’m interested in software testing both autonation and manual
-- 🌱 I’m currently learning Selenium and API testing
+- 🌱 I’m currently learning Selenium, c#, API testing
 - 💞️ I’m looking to collaborate on automation tasks
 - 📫 How to reach me samantvinita25@gmail.com
 
