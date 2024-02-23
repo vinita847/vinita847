@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vinita
-- 👀 I’m interested in software testing both autonation and manual
-- 🌱 I’m currently learning Selenium, c#, API testing
-- 💞️ I’m looking to collaborate on automation tasks
+- 👋 Hey, it's Vinita. 
+- 👀 Learning and growing techniques and skills towards making software Testing process more reliable and effective.
+- 🌱 Improving testing mindset, Contributing on Cypress automation.
+- 💞️ Open to collaborate on automation projects.
 - 📫 How to reach me samantvinita25@gmail.com
 
 <!---
